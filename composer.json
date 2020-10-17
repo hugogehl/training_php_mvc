@@ -1,0 +1,17 @@
+{
+    "name": "hugo/training-mvc",
+    "description": "Simple from scratch PHP MVC training",
+    "type": "php",
+    "require": {
+        "twig/twig": "^3.0",
+        "php": "^7.4",
+        "ext-PDO": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Hugo Gehl",
+            "email": "gehlhugo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
