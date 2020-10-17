@@ -1,1 +1,1 @@
-Training for php
+Training for php.
